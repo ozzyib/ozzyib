@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on HMCTS Platforms project
+- 🌱 I’m currently learning JS/Python/Kubernetes/Jenkins/Terraform
+- 📫 How to reach me: ozzy_ibrahim@hotmail.com
+
 <!--
 **ozzyib/ozzyib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
