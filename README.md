@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 - 🔭 I’m currently working on HMCTS Platforms project
 - 🌱 I’m currently learning JS/Python/Kubernetes/Jenkins/Terraform
