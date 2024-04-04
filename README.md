@@ -1,11 +1,13 @@
 ### Hi there! 👋🏾
 
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ozzyib"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozzyib)](https://github.com/ozzyib/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozzyib&layout=compact)](https://github.com/ozzyib/github-readme-stats&layout=compact)
 
-- 🔭 I’m currently working on HMCTS Platforms project
+- 🔭 I’m currently working on HMCTS Platform's project
 - 🌱 I’m currently learning JS/Python/Kubernetes/Jenkins/Terraform
 - 📫 How to reach me: ozzy_ibrahim@hotmail.com
+- 😄 Pronouns: He/Him/His
 
 <!--
 **ozzyib/ozzyib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
