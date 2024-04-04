@@ -1,4 +1,7 @@
-### Hi there 👋🏾
+### Hi there! 👋🏾
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozzyib)](https://github.com/ozzyib/github-readme-stats)
 
 - 🔭 I’m currently working on HMCTS Platforms project
 - 🌱 I’m currently learning JS/Python/Kubernetes/Jenkins/Terraform
