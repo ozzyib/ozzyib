@@ -5,10 +5,11 @@
 - 📫 How to reach me: ozzy_ibrahim@hotmail.com
 - 😄 Pronouns: He/Him/His
 
-
-<img alt="my stats" align="left" wdith="49%" src="https://github-readme-stats.vercel.app/api?username=ozzyib"/>
-<img alt="top langs" align="left" wdith="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzyib&layout=compact"/>
-
+### My stats ⭐
+<div align="center">
+<img alt="Ozzyib's GitHub stats" align="left" wdith="49%" src="https://github-readme-stats.vercel.app/api?username=Ozzyib&show_icons=true&theme=transparent"/>
+<img alt="Top langs" align="left" wdith="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozzyib&layout=compact&&langs_count=8"/>
+</div>
 
 <!--
 **ozzyib/ozzyib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
