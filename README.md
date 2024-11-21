@@ -1,7 +1,7 @@
 ### Hi there! 👋🏾
 
 - 🔭 I’m currently working on HMCTS Platform's project
-- 🌱 I’m currently learning JS/Python/Kubernetes/Jenkins/Terraform
+- 🌱 I’m currently learning JS/Python
 - 📫 How to reach me: ozzy_ibrahim@hotmail.com
 - 😄 Pronouns: He/Him/His
 
