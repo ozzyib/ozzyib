@@ -1,7 +1,6 @@
 ### Hi there! 👋🏾
 
-- 🔭 I’m currently working on HMCTS Platform's project
-- 🌱 I’m currently learning JS/Python
+- 🔭 I’m currently working on DVSA Platform's project
 - 📫 How to reach me: ozzy_ibrahim@hotmail.com
 - 😄 Pronouns: He/Him/His
 
